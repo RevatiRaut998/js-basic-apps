@@ -1,30 +1,28 @@
-# 📝 To-Do List App (Add Only)
+# 📝 To-Do List App (Add + Delete)
 
 This is a basic **To-Do List App** built using **HTML**, **CSS**, and **vanilla JavaScript**.
 
 Users can:
-- Type in a task
-- Click the "Add Task" button
-- See the task appear in a list below
-
-No delete or edit functionality is added yet — this version focuses only on **adding tasks**.
+- Add tasks using an input field
+- See each task listed
+- Delete tasks individually using the ❌ button
 
 ---
 
 ## 🔧 Features
 
-- Dynamically adds new list items using JavaScript
-- Clears the input box after each task is added
-- Ignores empty or blank tasks using `.trim()`
+- Add tasks to a list
+- Dynamically generate Delete buttons for each task
+- Remove tasks using `.remove()` method
 
 ---
 
 ## 🧠 What I Learned
 
-- DOM manipulation (`getElementById`, `createElement`, `appendChild`)
-- Event handling with `addEventListener`
-- How to read input values from an `<input>` field
-- Using JavaScript to update the HTML dynamically
+- How to manipulate the DOM dynamically
+- How to attach `click` events to newly created elements
+- Using `element.remove()` to delete DOM nodes
+- Better understanding of how JS controls the browser screen
 
 ---
 
