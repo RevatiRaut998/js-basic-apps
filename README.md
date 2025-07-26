@@ -21,8 +21,8 @@ Visit the [Live Project Dashboard](https://RevatiRaut998.github.io/js-basic-apps
 
 | App Name         | Description                                      | Live Link                        |
 |------------------|--------------------------------------------------|----------------------------------|
-| ✅ Counter Button | A simple button that increases a counter on click | [Launch](./counter-button-app/) |
-| 📝 To-Do List     | Add and delete tasks with basic DOM manipulation | [Launch](./todo-app/)           |
+| ✅ Counter Button | A simple button that increases a counter on click | [Launch](https://revatiraut998.github.io/js-basic-apps/counter-button-app/) |
+| 📝 To-Do List     | Add and delete tasks with basic DOM manipulation | [Launch](https://revatiraut998.github.io/js-basic-apps/todo-app/)           |
 
 ---
 
