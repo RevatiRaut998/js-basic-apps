@@ -7,33 +7,22 @@ Each app is fully self-contained with its own HTML, CSS, and JavaScript files.
 ---
 
 ## 📂 Project Structure
-
-js-basic-apps/
-├── counter-button-app/
-│ ├── index.html
-│ └── script.js
-├── todo-app/
-│ ├── index.html
-│ └── script.js
-├── index.html ← Project dashboard linking to each app
-
+Each project lives in its own folder with its own code and README for easy navigation.
 
 ---
 
 ## 🌐 Live Demo
 
-Visit the [Live Project Dashboard](https://your-username.github.io/js-basic-apps/) to explore all apps in one place.
-
-> 📌 Replace `your-username` with your GitHub handle once Pages is live!
+Visit the [Live Project Dashboard](https://RevatiRaut998.github.io/js-basic-apps/) to explore all apps in one place.
 
 ---
 
 ## 🧩 Included Projects
 
-| App Name | Description | Live Link |
-|----------|-------------|-----------|
+| App Name         | Description                                      | Live Link                        |
+|------------------|--------------------------------------------------|----------------------------------|
 | ✅ Counter Button | A simple button that increases a counter on click | [Launch](./counter-button-app/) |
-| 📝 To-Do List      | Add and delete tasks with basic DOM manipulation | [Launch](./todo-app/) |
+| 📝 To-Do List     | Add and delete tasks with basic DOM manipulation | [Launch](./todo-app/)           |
 
 ---
 
@@ -42,7 +31,7 @@ Visit the [Live Project Dashboard](https://your-username.github.io/js-basic-apps
 - Strengthen **JavaScript fundamentals**
 - Practice **DOM manipulation**
 - Build confidence in **creating UI with minimal tooling**
-- Understand real-world workflows like GitHub Pages and modular project structure
+- Learn how to deploy multiple apps inside a single GitHub repo
 
 ---
 
@@ -51,5 +40,5 @@ Visit the [Live Project Dashboard](https://your-username.github.io/js-basic-apps
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/js-basic-apps.git
+   git clone https://github.com/RevatiRaut998/js-basic-apps.git
    cd js-basic-apps
