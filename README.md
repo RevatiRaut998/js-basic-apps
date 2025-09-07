@@ -23,7 +23,7 @@ Visit the [Live Project Dashboard](https://RevatiRaut998.github.io/js-basic-apps
 |------------------|--------------------------------------------------|----------------------------------|
 | ✅ Counter Button | A simple button that increases a counter on click | [Launch](https://revatiraut998.github.io/js-basic-apps/counter-button-app/) |
 | 📝 To-Do List     | Add and delete tasks with basic DOM manipulation | [Launch](https://revatiraut998.github.io/js-basic-apps/todo-app/)           |
-
+| ✅ Rock Paper Scissor | A simple RPG Game | [Launch](https://revatiraut998.github.io/js-basic-apps/rock-paper-scissor-app/) |
 ---
 
 ## 🎯 Purpose
