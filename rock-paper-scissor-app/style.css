@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+.buttons {
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #ddd;
+}
+
+.results {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  text-align: center;
+  min-width: 250px;
+}
+
+.results p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.winner {
+  font-weight: bold;
+  font-size: 20px;
+  color: #2a7;
+}
+
+.tie {
+  font-weight: bold;
+  font-size: 20px;
+  color: #e74c3c;
+}
